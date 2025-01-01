@@ -1,0 +1,121 @@
+@media(max-width:320px)
+{
+    .container
+    {
+        width: 100%;
+        height: 500px;
+    }
+    .form
+    {
+     
+        width: 95%;
+        margin-bottom: -40%;
+        height: 380px;
+      
+    }
+    .form-content h1
+    {
+        font-size: 32px;
+    }
+    .form-content p
+    {
+        letter-spacing: 0px;
+        
+    }
+    .p2
+    {
+      
+        position: relative;
+        left: 6%;
+    }
+    .p3
+    {
+        margin-left: -33%;
+    }
+    .inp1
+    {
+        width: 90%;
+        margin-left: 5%;
+    }
+    .inp2
+    {
+        width: 90%;
+        margin-left: 5%;
+    }
+    .inp3
+    {
+        width: 90%;
+        margin-left: 5%;
+    }
+}
+@media(max-width:576px)
+{
+    .container
+    {
+        width: 100%;
+        height: 510px;
+    }
+    .form
+    {
+        width: 95%;
+        margin-top: 5%;
+    }
+    .p1
+    {
+        margin-right: -5%;
+    }
+    .p2
+    {
+        margin-right: -8%;
+    }
+    .p3
+    {
+        margin-right: -5%;
+    }
+}
+@media(max-width:768px)
+{
+    .container
+    {
+        width: 100%;
+        height: 550px;
+    }
+    .form
+    {
+        width: 95%;
+        margin-top: 4%;
+    }
+    .p2
+    {
+        margin-right: -2%;
+    }
+    .p3
+    {
+        margin-left: 4%;
+    }
+}
+@media(max-width:992px)
+{
+    .container
+    {
+        width: 100%;
+        height: 590px;
+    }
+    .form
+    {
+        width: 95%;
+        margin-top: 3%;
+    }
+    .p1
+    {
+        margin-left: -73%;
+    }
+    .p2
+    {
+        margin-left: -66%;
+    }
+    .p3
+    {
+        margin-left: -71%;
+    }
+}
